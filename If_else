@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main(){
+    int x=44;
+    if(x>20){
+        printf("Its correct because x greter than 20");
+    }
+    else{
+        printf("Its wrong");
+    }
+    
+}
